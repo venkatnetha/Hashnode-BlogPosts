@@ -2,7 +2,8 @@
 
 # Play2Earn blockchain games for Dummies..
 
-Introduction
+## Introduction
+
 If 2020 summer can be described as De-Fi summer and 2021 summer as summer of NFTs, I believe 2022 summer can be aptly described as GameFi summer as the growth is set to extend 2000% from the Q1 of 2021.
 
 At the center of GameFi lies blockchain enabled paly2earn video games. As the name suggests, play-to-earn (or P2E) crypto games involve earning some form of cryptocurrency by playing games. These usually include making in-game currency by carrying out quests, winning battles, and completing other kinds of challenges. You can typically exchange this in-game currency for Bitcoin, Ethereum, or another token on a decentralized exchange.
@@ -13,7 +14,8 @@ https://venkatnetha.hashnode.dev/play2earn-blockchain-games-for-dummies
 
 # Metaverse for dummies
 
-Introduction
+## Introduction
+
 Metaverse will be a buzzword of this decade. Metaverse could change the way we see the world now.
 
 Future is unlimited. Let us find what a Metaverse is actually:
