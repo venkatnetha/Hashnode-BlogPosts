@@ -28,3 +28,18 @@ Let us begin with Matthew Ball definition of Metaverse.
 For More information, Please read the entire article on below link
 
 https://venkatnetha.hashnode.dev/metaverse-for-dummies
+
+
+# NFT and their real life use cases
+
+## Introduction
+
+NFTs are not just a bored ape jpeg or for that matter a profile picture, they are more than just a digital ownership. There are lot more real-life use cases with NFTs which have the potential to change the way we interact, trade, prove identity and in many ways in the foreseeable future.
+
+The total sale of NFTs was estimated at 12 Million USD during December 2021 but exploded to 340 Million USD within just two months (February 2021). Such skyrocket development makes NFTs become a craze, or some described them as future of digital assets.
+
+CryptoPunks with their first digital art ownership project, CryptoKitties with their algorithmic breeding technology of crypto kitties, NBATopShots to sell short videos of NBA moments, Beeple digital are sale in millions of dollars made people stop and notice about the NFT technology.
+
+
+For More information, Please read the entire article on below link
+https://venkatnetha.hashnode.dev/nfts-and-their-reallife-usecases
